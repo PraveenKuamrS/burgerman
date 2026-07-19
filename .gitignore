@@ -1,0 +1,41 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Editor Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies (if you add Node modules)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Build Files
+dist/
+build/
+.cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE
+.idea/
+*.iml
+*.iws
+
+# Misc
+.DS_Store
+.AppleDouble
+.LSOverride

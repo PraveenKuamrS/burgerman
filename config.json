@@ -1,0 +1,77 @@
+{
+  "restaurant": {
+    "name": "BurgerMan",
+    "tagline": "Crafted to Perfection",
+    "location": "Porur, Chennai",
+    "fullAddress": "124, Mount Poonamallee Rd, Adithi Colony, Sabari Nagar, Porur, Chennai, Greater Chennai, Tamil Nadu 600116",
+    "building": "Floor 0, AKME Park apartments",
+    "phone": "06382220474",
+    "website": "https://stores.burgerman.in",
+    "email": "contact@burgerman.in"
+  },
+  "rating": {
+    "score": 4.3,
+    "reviews": 1050
+  },
+  "pricing": {
+    "min": 200,
+    "max": 400,
+    "currency": "₹"
+  },
+  "hours": {
+    "status": "Open",
+    "closingTime": "11:00 PM"
+  },
+  "coordinates": {
+    "latitude": 13.028207,
+    "longitude": 80.1703175
+  },
+  "services": [
+    "Dine-in",
+    "Takeaway",
+    "Delivery"
+  ],
+  "menu": [
+    {
+      "name": "Classic Burger",
+      "description": "Juicy beef patty with fresh lettuce, tomato & special sauce",
+      "price": 250,
+      "icon": "🍔",
+      "color": "#f97316"
+    },
+    {
+      "name": "Cheese Blast",
+      "description": "Double cheese, crispy bacon & caramelized onions",
+      "price": 320,
+      "icon": "🧀",
+      "color": "#ea580c"
+    },
+    {
+      "name": "Spicy King",
+      "description": "Loaded with jalapeños, sriracha & fried onions",
+      "price": 300,
+      "icon": "🌶️",
+      "color": "#dc2626"
+    },
+    {
+      "name": "Veggie Delight",
+      "description": "Crispy veggie patty, fresh greens & special herb sauce",
+      "price": 220,
+      "icon": "🥬",
+      "color": "#059669"
+    }
+  ],
+  "socialMedia": {
+    "facebook": "",
+    "instagram": "",
+    "twitter": "",
+    "whatsapp": ""
+  },
+  "colors": {
+    "primary": "#f97316",
+    "secondary": "#ea580c",
+    "dark": "#1f2937",
+    "light": "#f9fafb",
+    "accent": "#fbbf24"
+  }
+}
